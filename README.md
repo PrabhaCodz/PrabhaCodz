@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 # Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs)](https://skillicons.dev)
 <br/>
 
 # Back-End
