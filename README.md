@@ -1,3 +1,13 @@
+
+<h1 align='center'><a id="typo" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Prabhakaran.S.R;+I'm+a+UI%2FUX+Designer;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a></h1>
+
+<h3 align="center">About Me !!</h3>
+<br>
+<img align="right" alt="Coding" height='250' width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
+
+
 👋 @PrabhaCodz here!!
 
 👀 I’m interested in Fullstack Developement
@@ -8,7 +18,7 @@
 
 📫 You can reach me through -> srprabha17@gmail.com
 
-<img src="https://wallpapercave.com/wp/wp9463668.jpg">
+
 
 <!---
 PrabhaCodz/PrabhaCodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
