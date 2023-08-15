@@ -3,9 +3,9 @@
 
 <h3 align="center">About Me !!</h3>
 <br>
-<img align="right" alt="Coding" height='250' width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
+<img align="right" alt="Coding" height='250' width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAv35inE5438SOBiuwIphUckgCICwdoI5mA&usqp=CAU")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabhaCodz&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
 
 
 👋 @PrabhaCodz here!!
