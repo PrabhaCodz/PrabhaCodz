@@ -1,5 +1,5 @@
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAv35inE5438SOBiuwIphUckgCICwdoI5mA&usqp=CAU">
+
 <h1 align='center'><a id="typo" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Prabhakaran.S.R;+I'm+a+UI%2FUX+Designer;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">About Me !!</h3>
