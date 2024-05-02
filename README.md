@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Programming Languages known
-[![My Skills](https://skillicons.dev/icons?i=c,py,,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,js,java)](https://skillicons.dev)
 <br/>
 
 # Front-End
