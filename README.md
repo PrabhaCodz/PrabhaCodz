@@ -27,19 +27,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Programming Languages known
-[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,js,java,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,,js,java)](https://skillicons.dev)
 <br/>
 
 # Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js)](https://skillicons.dev)
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,py,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,mongodb,mysql)](https://skillicons.dev)
 <br />
 
 # Tools Used
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,aws,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 # **📈Statistics**
 ![PrabhaCodz's Stats](https://github-readme-stats.vercel.app/api?username=PrabhaCodz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
