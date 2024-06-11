@@ -35,8 +35,7 @@
 
 <br />
 
-# Tools Used
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+
 
 # **📈Statistics**
 ![PrabhaCodz's Stats](https://github-readme-stats.vercel.app/api?username=PrabhaCodz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
